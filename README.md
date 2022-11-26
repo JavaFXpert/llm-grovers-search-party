@@ -7,4 +7,4 @@ The following video discusses how to implement Grover's algorithm to solve a boo
 
 In the video, a boolean expression is manually constructed from a narrative that involves inviting friends to a dinner party.
 
-This repository contains an update Jupyter notebook that provides the ability to generate the boolean expression from a narrative. A large language model from OpenAI, as well as the [LangChain](https://github.com/hwchase17/langchain) library, are leveraged to accomplish this.
+This repository contains an update Jupyter notebook that provides the ability to generate the boolean expression from a narrative. A large language model from [OpenAI](https://openai.com/), as well as the [LangChain](https://github.com/hwchase17/langchain) library, are leveraged to accomplish this.
